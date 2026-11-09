@@ -1,6 +1,6 @@
 # 🛸 Rick & Morty Portal Finder
 
-Aplicación web desarrollada como proyecto integrador para **Kodigo**, orientada a la búsqueda, filtrado y gestión de personajes consumiendo la API oficial de Rick and Morty.
+Aplicación web desarrollada como proyecto de tarea, orientada a la búsqueda, filtrado y gestión de personajes consumiendo la API oficial de Rick and Morty.
 
 ## 📌 Características
 * Consumo de API Asíncrono (`fetch`, `async/await`).
@@ -13,4 +13,4 @@ Aplicación web desarrollada como proyecto integrador para **Kodigo**, orientada
 * API: [The Rick and Morty API](https://rickandmortyapi.com/)
 
 ## 👨‍💻 Autor
-Desarrollado por **William Ernesto Flores Alvarado**
+Desarrollado en clases **WDFRT1**
